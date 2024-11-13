@@ -16,8 +16,7 @@ fun main(args: Array<String>) {
     val isTrue = true
     val isFalse: Boolean = false
     number4 = false
-
-    // Character, String Data Type
+    
     val character = 'a'
     println(character)
     println(character + 1)
