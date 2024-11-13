@@ -5,8 +5,7 @@ plugins {
 
 android {
     namespace = "com.jkweyu.kotlin_basic"
-    compileSdk = 33
-
+    compileSdk = 34
     defaultConfig {
         applicationId = "com.jkweyu.kotlin_basic"
         minSdk = 33
