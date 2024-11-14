@@ -5,6 +5,7 @@ class Condition {
 fun main(args: Array<String>) {
     val a = 10
     val b = 20
+
     // 기본적인 if 문
     if (a < b) {
         println("a는 b보다 작습니다")
