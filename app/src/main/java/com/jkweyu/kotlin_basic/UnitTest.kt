@@ -8,7 +8,9 @@ class CalculatorTest {
 
     // 테스트하려는 메서드
     fun add(a: Int, b: Int): Int {
+
         return a + b
+
     }
 
     @Test
